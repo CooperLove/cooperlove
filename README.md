@@ -10,7 +10,7 @@
       * Flutter
       * C++ 
       * MySQL
-  * Projects:
+  * [Projects](#Projects):
     * Pokedex <a href="https://github.com/CooperLove/Pokedex">Repository</a>
     * WhatsApp Clone <a href="https://github.com/CooperLove/whatsapp_clone">Repository</a>
     * Chat Flutter <a href="https://github.com/CooperLove/Chat-Flutter">Repository</a>
