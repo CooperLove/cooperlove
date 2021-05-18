@@ -7,7 +7,7 @@
       * Also i work on Game development using C# and Unity
    * [Technologies](#tecnologias)
       * C#
-      * Flutter
+      * Dart/Flutter
       * C++ 
       * MySQL
   * [Projects](#Projects):
