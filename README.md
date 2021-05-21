@@ -3,7 +3,7 @@
 
 <!--ts-->
    * [About](#Sobre)
-      * Backend developer currently learning Flutter. Graduated in Computere Science from Universidade Federal do Ceará.
+      * Backend developer and mobile developer (Flutter). Graduated in Computere Science from Universidade Federal do Ceará.
       * Also i work on Game development using C# and Unity
    * [Technologies](#tecnologias)
       * C#
