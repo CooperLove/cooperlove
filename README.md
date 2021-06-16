@@ -11,10 +11,14 @@
       * C++ 
       * MySQL
   * [Projects](#Projects):
+    * Find B-Number of a graph (Final Paper) <a href="https://github.com/CooperLove/Find-B-Number-of-graph">Repository</a>
     * Pokedex <a href="https://github.com/CooperLove/Pokedex">Repository</a>
     * WhatsApp Clone <a href="https://github.com/CooperLove/whatsapp_clone">Repository</a>
     * Chat Flutter <a href="https://github.com/CooperLove/Chat-Flutter">Repository</a>
-    * Find B-Number of a graph (Final Paper) <a href="https://github.com/CooperLove/Find-B-Number-of-graph">Repository</a>
+    * Loja Virtual <a href="https://github.com/CooperLove/loja_virtual">Repository</a>
+    * Gerenciamento de Loja Virtual (BLoC) <a href="https://github.com/CooperLove/gerenciamento_de_loja">Repository</a>
+    * Favoritos YouTube (BLoC) <a href="https://github.com/CooperLove/fluttertube">Repository</a>
+    
 <!--te-->
 
 
