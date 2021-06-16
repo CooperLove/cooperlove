@@ -3,13 +3,13 @@
 
 <!--ts-->
    * [About](#Sobre)
-      * Backend developer and mobile developer (Flutter). Graduated in Computere Science from Universidade Federal do Ceará.
-      * Also i work on Game development using C# and Unity
+      * Backend developer and mobile developer. Graduated in Computere Science from Universidade Federal do Ceará.
    * [Technologies](#tecnologias)
-      * C#
       * Dart/Flutter
+      * C#
       * C++ 
       * MySQL
+      * Firebase
   * [Projects](#Projects):
     * Find B-Number of a graph (Final Paper) <a href="https://github.com/CooperLove/Find-B-Number-of-graph">Repository</a>
     * Pokedex <a href="https://github.com/CooperLove/Pokedex">Repository</a>
