@@ -1,24 +1,30 @@
-### Hi there, i'm Pedro Leonardo
+
+  <div align="center">
+    Front-end and mobile developer. Graduated in Computere Science from Universidade Federal do Ceará.
+  </div><br>
+   
+  <div align="center">
+    <a href="https://github.com/cooperlove">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cooperlove&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooperlove&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+  <div align="center" style="display: inline_block;margin-bottom:30px; "><br>
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </div>
+  
+   <div align="center"> <br>
+    <a href="https://instagram.com/__godlove__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:godlovqwer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/godloveqwer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-<!--ts-->
-   * [About](#Sobre)
-      * Backend developer and mobile developer. Graduated in Computere Science from Universidade Federal do Ceará.
-   * [Technologies](#tecnologias)
-      * Dart/Flutter
-      * C#
-      * C++ 
-      * MySQL
-      * Firebase
-  * [Projects](#Projects):
-    * Find B-Number of a graph (Final Paper) <a href="https://github.com/CooperLove/Find-B-Number-of-graph">Repository</a>
-    * Pokedex <a href="https://github.com/CooperLove/Pokedex">Repository</a>
-    * WhatsApp Clone <a href="https://github.com/CooperLove/whatsapp_clone">Repository</a>
-    * Chat Flutter <a href="https://github.com/CooperLove/Chat-Flutter">Repository</a>
-    * Loja Virtual <a href="https://github.com/CooperLove/loja_virtual">Repository</a>
-    * Gerenciamento de Loja Virtual (BLoC) <a href="https://github.com/CooperLove/gerenciamento_de_loja">Repository</a>
-    * Favoritos YouTube (BLoC) <a href="https://github.com/CooperLove/fluttertube">Repository</a>
-    
+  </div>
+  
+  
 <!--te-->
 
 
